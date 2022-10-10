@@ -64,9 +64,7 @@ https://help.raindrop.io/import/#settings
 
 <details>
 <summary>
-
 Color Code
-
 </summary>
 
 ###### Open Source 🔴
