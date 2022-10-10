@@ -65,7 +65,7 @@ https://help.raindrop.io/import/#settings
 <details>
 <summary>
 
-#### Color Code
+Color Code
 
 </summary>
 
@@ -118,7 +118,7 @@ https://help.raindrop.io/import/#settings
 1. [Here’s How To Hit the Ground Running as a New Hire in a Company](https://medium.com/@jedmay/heres-how-to-hit-the-ground-running-as-a-new-hire-in-a-company-4a59cbbcbf24) [🔶](#tips-)
 1. [7 Rules for Negotiating Your Next Salary](https://medium.com/@selalio/7-rules-for-negotiating-your-next-salary-b24b2cb8defc) [🔶](#tips-)
 1. [Analyzing Employee Reviews Using Topic Modeling](https://medium.com/@srujan.krish97/analyzing-employee-reviews-using-topic-modeling-3ef6f18e88c7) [⭕](#natural-language-processing-)  
-
+[🔝](#bookmarks)
 1. [What Does It Take To Become a Senior Software Engineer?](https://medium.com/@mannydsz/what-does-it-take-to-become-a-senior-software-engineer-8accd950d98) [🔶](#tips-)
 1. a
 1. a
