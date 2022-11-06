@@ -10,8 +10,6 @@
 🟤🟫
 ❤🧡💛💚💙💜🤎🖤🤍
 
-https://help.raindrop.io/import/#settings
-
 🔴 Open Source
 🟥 Big Data
 🟢 Docker
@@ -54,7 +52,6 @@ https://help.raindrop.io/import/#settings
 🤎
 🖤
 🤍
-
 
 ### Additional Flag
 
